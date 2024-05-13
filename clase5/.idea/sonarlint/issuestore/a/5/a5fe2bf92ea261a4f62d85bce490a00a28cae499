@@ -1,0 +1,15 @@
+
+u
+java:S2440"2Remove this instantiation of "ComputadoraFactory".(ÿ·É¿8Ëù†úö1J$064b1415-c629-44d6-81fe-2d2b7896686f
+‡
+java:S1854"?Remove this useless assignment to local variable "computador2".(ôÚïÀşÿÿÿÿ8Íù†úö1J$00b26d91-7329-4b58-abe6-b4e7ad364001
+‚
+java:S1854"?Remove this useless assignment to local variable "computador1".(©óúš8Íù†úö1J$8e8115af-04e9-4fb8-816d-db1848b122db
+x
+java:S2209"5Change this instance-reference to a static reference.(©óúš8Ïù†úö1J$8b0e34cd-3098-4f62-ab03-e7edaa35b674
+s
+java:S1481"0Remove this unused "computador1" local variable.(©óúš8Ïù†úö1J$747e4adb-021b-45e8-a776-3543558fd52a
+}
+java:S2209"5Change this instance-reference to a static reference.(ôÚïÀşÿÿÿÿ8Ğù†úö1J$8b21357d-d3d1-4927-b712-7286d62c8a28
+x
+java:S1481"0Remove this unused "computador2" local variable.(ôÚïÀşÿÿÿÿ8Ğù†úö1J$37aef7fa-a826-4eb2-a56d-8f464151a9ac
